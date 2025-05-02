@@ -1,4 +1,4 @@
-# Princple Of Data Science 
+# Principle Of Data Science 
 # Final Project 
 
 # 🏥 Healthcare Predictive Analytics: Patient Readmission
