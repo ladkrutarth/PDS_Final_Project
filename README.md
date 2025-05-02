@@ -23,10 +23,8 @@ Hospital readmissions within 30 days are not only expensive but often avoidable.
 ## 🧰 Technologies & Tools
 
 * Python (Pandas, Scikit-learn, XGBoost, SHAP)
-* Jupyter Notebooks
-* Streamlit / Dash (for visualization and simulator)
+* Colab
 * Plotly / Seaborn / Matplotlib
-* External APIs for weather, pollution, and social event data
 
 ## 🔐 Ethical Considerations
 
